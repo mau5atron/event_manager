@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.3'
 # using postgres for db
 gem 'pg'
 gem 'hirb'
+gem 'responders'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
